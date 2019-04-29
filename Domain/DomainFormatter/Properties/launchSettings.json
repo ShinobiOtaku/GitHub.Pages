@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DomainFormatter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\dev\\GitHub.Pages\\Domain\\Domain\""
+    }
+  }
+}
